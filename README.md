@@ -38,6 +38,7 @@ CV Analyzer is a Streamlit web app that uses AI to analyze resumes (PDF/TXT) and
 
 ## Demo
 ![Demo Screenshot](Demo.png)
+
 ![Usage Demo](demo.gif)
 
 ## Author
