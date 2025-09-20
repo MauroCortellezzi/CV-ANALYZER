@@ -13,8 +13,8 @@ CV Analyzer is a Streamlit web app that uses AI to analyze resumes (PDF/TXT) and
 ## How to Use
 1. Clone this repository:
    ```
-   git clone https://github.com/tuusuario/cv-analyzer.git
-   cd cv-analyzer
+   git clone https://github.com/MauroCortellezzi/CV-ANALYZER.git
+   cd CV-ANALYZER
    ```
 2. Install dependencies:
    ```
