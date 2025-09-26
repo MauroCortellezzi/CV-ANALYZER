@@ -18,7 +18,7 @@ CV Analyzer is a Streamlit web app that uses AI to analyze resumes (PDF/TXT) and
    ```
 2. Install dependencies:
    ```
-   uv pip install -r requirements.txt
+   pip install -r requirements.txt
    ```
 3. Add your OpenAI API key to a `.env` file:
    ```
